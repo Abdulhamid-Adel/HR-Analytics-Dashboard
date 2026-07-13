@@ -34,6 +34,3 @@ This project is an interactive HR Analytics Dashboard developed using Power BI t
 ### Employees Dashboard
 
 ![Employees Dashboard](Dashboard%20Employees.png)
-
-## Author
-Abdulhamid Adel Albakheet
