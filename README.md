@@ -1,5 +1,5 @@
 # HR Analytics Dashboard
-## Dashboard Preview
+
 ## Overview
 This project is an interactive HR Analytics Dashboard developed using Power BI to analyze employee data and support data-driven decision-making.
 
