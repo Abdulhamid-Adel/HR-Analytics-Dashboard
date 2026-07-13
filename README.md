@@ -1,5 +1,5 @@
 # HR Analytics Dashboard
-
+## Dashboard Preview
 ## Overview
 This project is an interactive HR Analytics Dashboard developed using Power BI to analyze employee data and support data-driven decision-making.
 
@@ -25,7 +25,15 @@ This project is an interactive HR Analytics Dashboard developed using Power BI t
 - Finance has the lowest total net salary.
 
 ## Dashboard Preview
+### Home Dashboard
 
+![Home Dashboard](Dashboard%20Home.png)
+
+---
+
+### Employees Dashboard
+
+![Employees Dashboard](Dashboard%20Employees.png)
 
 ## Author
 Abdulhamid Adel Albakheet
